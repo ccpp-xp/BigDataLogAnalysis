@@ -15,7 +15,7 @@
 
 ### 项目架构图
 ![本地路径](./img/1.png "项目架构图")
-### 项目结构(Todo)
+### 项目结构
   - img：存放项目的图片相关内容
   - src/main/scala/com/log/offline：离线分析代码
   - src/main/scala/com/log/realtime：实时分析代码
